@@ -1,0 +1,4 @@
+2021-11-05 21:34:22,611 root WARNING: Invalid user can't login
+2021-11-05 21:34:22,612 root Level 35: This account doesn't exist!
+2021-11-05 21:34:22,612 root ERROR: Program's error is found
+2021-11-05 21:34:22,612 root CRITICAL: Program's critical error is found
